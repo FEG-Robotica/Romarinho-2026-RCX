@@ -15,8 +15,8 @@
 #define SLE 17
 
 // motores
-#define IN1 10
-#define IN2 9
+#define IN1 9
+#define IN2 10
 #define IN3 6
 #define IN4 5
 
